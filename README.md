@@ -3,8 +3,8 @@ This is a pragmatic, production-ready kernel for a modular CRM you can scaffold 
 ---
 
 ## 0) Tech choices
-- **Rails**: 7.1+ (with Hotwire/Turbo by default)
-- **Ruby**: 3.2+
+- **Rails**: 8+ (with Hotwire/Turbo by default)
+- **Ruby**: 3.4+
 - **DB**: Postgres 14+
 - **Auth**: Devise (or Authlogic/Bcrypt if you prefer)
 - **Jobs**: ActiveJob + Sidekiq
